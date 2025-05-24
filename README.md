@@ -13,9 +13,9 @@ Das Projekt simuliert verschiedene Betriebszustände einer Maschine (Normal, Lag
 
 ## Szenario
 
-Mit diesem Projekt soll **OnDeviceTraining** auf einem EdgeAI Server / Trainings System dargestellt werden.  
-Somit wird ein training/finetuning ohne Verbindung zum Internet oder externen Servern ermöglicht.  
-Dabei kann jedoch immernoch ein **effizientes Training** durchgeführt werden, da die GPU des (im vergleich zum PI) leistungsstarken Nvidia Jetson Orin Nano Super verwendet wird.
+   Mit diesem Projekt soll **OnDeviceTraining** auf einem EdgeAI Server / Trainings System dargestellt werden.  
+   Somit wird ein training/finetuning ohne Verbindung zum Internet oder externen Servern ermöglicht.  
+   Dabei kann jedoch immernoch ein **effizientes Training** durchgeführt werden, da die GPU des (im vergleich zum PI) leistungsstarken Nvidia Jetson Orin Nano Super verwendet wird.  
 
 Der **Nvidia Orin Nano Super** wurde für den Test in den **"MAXNSuper" Mode** geschaltet, das Training kann jedoch auch mit jeder anderen Energievariante durchgeführt werden.
 
