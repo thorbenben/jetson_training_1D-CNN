@@ -1,0 +1,31 @@
+Raspberry Pi Inferenz Ergebnisse:
+----------------------------------
+model_name_used: model_finetuned.tflite
+dataset_name_used: infer_data.npy
+model_type_evaluated_on_pi: Fine-tuned
+dataset_type_evaluated_on_pi: Standard
+average_inference_time_ms: 1.738927365001473
+accuracy: 1.0
+f1_macro: 1.0
+f1_weighted: 1.0
+roc_auc_macro_ovr: 1.0
+
+Klassifikationsbericht:
+                     precision    recall  f1-score   support
+
+             Normal       1.00      1.00      1.00       250
+       Lagerschaden       1.00      1.00      1.00       250
+Antriebsverschleiss       1.00      1.00      1.00       250
+       Pumpendefekt       1.00      1.00      1.00       250
+
+           accuracy                           1.00      1000
+          macro avg       1.00      1.00      1.00      1000
+       weighted avg       1.00      1.00      1.00      1000
+
+
+Konfusionsmatrix (Werte):
+                     Vorh. Normal  Vorh. Lagerschaden  Vorh. Antriebsverschleiss  Vorh. Pumpendefekt
+Normal                        250                   0                          0                   0
+Lagerschaden                    0                 250                          0                   0
+Antriebsverschleiss             0                   0                        250                   0
+Pumpendefekt                    0                   0                          0                 250
