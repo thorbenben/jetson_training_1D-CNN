@@ -49,7 +49,7 @@ Der **Nvidia Orin Nano Super** wurde für den Test in den **"MAXNSuper" Mode** g
     │   │   └── (confusion_matrix.png)
     │   └── pi_inferenz_23_05_2025/
     │       └── (confusion_matrix.png + inference results)
-    └── REASDME.md
+    └── README.md
 
 ```
 
