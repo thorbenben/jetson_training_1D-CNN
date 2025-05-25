@@ -20,7 +20,7 @@ Das Projekt simuliert verschiedene Betriebszustände einer Maschine (Normal, Lag
 Der **Nvidia Orin Nano Super** wurde für den Test in den **"MAXNSuper" Mode** geschaltet, das Training kann jedoch auch mit jeder anderen Energievariante durchgeführt werden.  
 
 Der Raspberry Pi 3B steht hierbei **stellvertretend für kleine, teils bereits integrierte Systeme** in der Maschine. Diese sind oft veraltet oder verfügen über zu wenig Rechenleistung, um ein eigenes Training durchzuführen,  eine Inferenz ist jedoch möglich. 
-Der Nvidia Jetson Orin Nano Super hingegen (in diesem Fall auf dem Developer Dev Board) kann in verschiedenste Szenarien integriert werden und als zentraler, lernfähiger Edge-Server in abgeschotteten Systemen eingesetzt werden.![image](https://github.com/user-attachments/assets/f1550b4e-1bb7-4594-9c89-124ac67331cf)
+Der Nvidia Jetson Orin Nano Super hingegen (in diesem Fall auf dem Developer Dev Board) kann in verschiedenste Szenarien integriert werden und als **zentraler, lernfähiger Edge-Server** in abgeschotteten Systemen eingesetzt werden.
 
 
 
