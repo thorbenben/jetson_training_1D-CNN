@@ -91,7 +91,7 @@ Nutze Venv
     ```
     Die Ergebnisse und eine Konfusionsmatrix werden im `models/` Ordner gespeichert.
 
-5.  **Scritt 2-4 mit den drfited Datensätzen wiederholen**
+5.  **Schritt 2-4 mit den drfited Datensätzen wiederholen**
 
 
 ## 🐍 Skript-Details
